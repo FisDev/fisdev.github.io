@@ -1,0 +1,103 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V2.1.5 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="ABCNews.al">
+    <display-name lang="sq">ABC News AL</display-name>
+    <url>http://www.ipko.com</url>
+  </channel>
+  <channel id="AlsatM.al">
+    <display-name lang="sq">Alsat M AL</display-name>
+    <url>http://www.ipko.com</url>
+  </channel>
+  <channel id="BangBang.al">
+    <display-name lang="sq">Bang Bang AL</display-name>
+    <url>http://www.ipko.com</url>
+  </channel>
+  <channel id="CufoTV.al">
+    <display-name lang="sq">Cufo TV AL</display-name>
+    <url>http://www.ipko.com</url>
+  </channel>
+  <channel id="EXPHistori.al">
+    <display-name lang="sq">EXP Histori AL</display-name>
+    <url>http://www.ipko.com</url>
+  </channel>
+  <channel id="EXPNatyra.al">
+    <display-name lang="sq">EXP Natyra AL</display-name>
+    <url>http://www.ipko.com</url>
+  </channel>
+  <channel id="EXPShkence.al">
+    <display-name lang="sq">EXP Shkence AL</display-name>
+    <url>http://www.ipko.com</url>
+  </channel>
+  <channel id="FilmAksion.al">
+    <display-name lang="sq">Film Aksion AL</display-name>
+    <url>http://www.ipko.com</url>
+  </channel>
+  <channel id="FilmDrame.al">
+    <display-name lang="sq">Film Drame AL</display-name>
+    <url>http://www.ipko.com</url>
+  </channel>
+  <channel id="FilmDy.al">
+    <display-name lang="sq">Film Dy AL</display-name>
+    <url>http://www.ipko.com</url>
+  </channel>
+  <channel id="FilmKomedi.al">
+    <display-name lang="sq">Film Komedi AL</display-name>
+    <url>http://www.ipko.com</url>
+  </channel>
+  <channel id="FilmNje.al">
+    <display-name lang="sq">Film Nje AL</display-name>
+    <url>http://www.ipko.com</url>
+  </channel>
+  <channel id="FilmThriller.al">
+    <display-name lang="sq">Film Thriller AL</display-name>
+    <url>http://www.ipko.com</url>
+  </channel>
+  <channel id="FoxLife.al">
+    <display-name lang="sq">Fox Life AL</display-name>
+    <url>http://www.ipko.com</url>
+  </channel>
+  <channel id="JuniorTV.al">
+    <display-name lang="sq">Junior TV AL</display-name>
+    <url>http://www.ipko.com</url>
+  </channel>
+  <channel id="KlanTV.al">
+    <display-name lang="sq">Klan TV AL</display-name>
+    <url>http://www.ipko.com</url>
+  </channel>
+  <channel id="KlanKosova.al">
+    <display-name lang="sq">Klan Kosova AL</display-name>
+    <url>http://www.ipko.com</url>
+  </channel>
+  <channel id="Music.al">
+    <display-name lang="sq">musicAL AL</display-name>
+    <url>http://www.ipko.com</url>
+  </channel>
+  <channel id="MyMusic.al">
+    <display-name lang="sq">My Music AL</display-name>
+    <url>http://www.ipko.com</url>
+  </channel>
+  <channel id="NationalGeographic.al">
+    <display-name lang="sq">Nat Geo AL</display-name>
+    <url>http://www.ipko.com</url>
+  </channel>
+  <channel id="News24.al">
+    <display-name lang="sq">News 24 AL</display-name>
+    <url>http://www.ipko.com</url>
+  </channel>
+  <channel id="OraNews.al">
+    <display-name lang="sq">Ora News AL</display-name>
+    <url>http://www.ipko.com</url>
+  </channel>
+  <channel id="RrokumTV.al">
+    <display-name lang="sq">Rrokum TV AL</display-name>
+    <url>http://www.ipko.com</url>
+  </channel>
+  <channel id="RTSHSport.al">
+    <display-name lang="sq">RTSH sport AL</display-name>
+    <url>http://www.rtsh.al</url>
+  </channel>
+  <channel id="TopChannel.al">
+    <display-name lang="sq">Top Channel AL AL</display-name>
+    <url>http://www.top-channel.tv</url>
+  </channel>
+</tv>
